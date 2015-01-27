@@ -9,7 +9,7 @@
   Production
   ------------------
 
-  Any minute now...
+  [Visit the Mantis Online](https://ancient-mesa-4138.herokuapp.com/)
 
 
   Local Development
