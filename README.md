@@ -2,7 +2,8 @@
 
 What is it?
 -----------
-A Node.js/Express web application for figuring out the weather.
+* Homework for a Node course!
+* A Node.js/Express web application for figuring out the weather.
 
 Production
 ------------------
@@ -16,6 +17,7 @@ Local Development
   WU_KEY=PUTKEYHERE
 ```
 `foreman start`
+
 * Visit port 5000
 
 Dependencies
